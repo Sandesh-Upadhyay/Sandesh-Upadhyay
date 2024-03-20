@@ -6,9 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [upadhyaysandesh123@gmail.com](mailto:upadhyaysandesh123@gmail.com)
-* 🧠  I'm learning Frontend , Backend , Database.
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Am very Enthusiastic , Quick-Learner , Honest.
+* 🧠 I am a confident individual with strong skills in frontend, backend, and databases. I am actively seeking collaboration opportunities on innovative projects that challenge me to grow and learn. My unwavering enthusiasm, quick-learning ability, and unwavering honesty make me an ideal partner for any project.ident"
 
 <a href="https://www.github.com/Sandesh-Upadhyay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sandesh-Upadhyay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
