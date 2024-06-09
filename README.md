@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer
 ------------------------
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [upadhyaysandesh123@gmail.com](mailto:upadhyaysandesh123@gmail.com)
 * 🧠 I am a confident individual with strong skills in frontend, backend, and databases. I am actively seeking collaboration opportunities on innovative projects that challenge me to grow and learn. My unwavering enthusiasm, quick-learning ability, and unwavering honesty make me an ideal partner for any project.ident"
 
 <a href="https://www.github.com/Sandesh-Upadhyay" target="_blank" rel="noreferrer"><img
