@@ -1,37 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandesh Upadhay
-=======================================================================================================================================
+# Hi there, I'm Sandesh Upadhyay! 👋  
 
-Full Stack Web Developer
-------------------------
-* 🧠 I am a confident individual with strong skills in frontend, backend, and databases. I am actively seeking collaboration opportunities on innovative projects that challenge me to grow and learn. My unwavering enthusiasm, quick-learning ability, and unwavering honesty make me an ideal partner for any project.ident"
+🚀 **Full Stack Developer | AI & Web Enthusiast | Open Source Contributor**  
 
-<a href="https://www.github.com/Sandesh-Upadhyay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sandesh-Upadhyay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I specialize in building scalable web applications, AI-powered solutions, and modern frontend experiences. Passionate about problem-solving, open-source, and contributing to impactful projects.  
 
-### Skills
+---
 
+## 🏆 GitHub Achievements  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandesh-Upadhyay&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophy" />
 </p>
 
+---
 
-### Socials
+## 🛠 Skills & Technologies  
 
-<p align="left"> <a href="https://www.github.com/Sandesh-Upadhyay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sandesh-upadhyay-671bb8253" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href=https://x.com/Sandeshup_2024?t=z8cNl5x2EVgDbc6jeGkuyQ&s=09 target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### **Frontend Development**  
+- React.js, Next.js, TypeScript, JavaScript  
+- Tailwind CSS, Material UI, Bootstrap  
 
-### Badges
+### **Backend Development**  
+- Node.js, Express.js, Supabase  
+- RESTful APIs, WebSockets  
 
-<b>My GitHub Stats</b>
+### **Databases & Cloud**  
+- MongoDB, PostgreSQL, Firebase  
+- Supabase, AWS (Basics)  
 
-<a href="http://www.github.com/Sandesh-Upadhyay"><img src="https://github-readme-stats.vercel.app/api?username=Sandesh-Upadhyay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sandesh-Upadhyay's GitHub stats" /></a>
+### **Tools & Other**  
+- Git, GitHub, Docker (Basics)  
+- CI/CD (GitHub Actions)  
+- Postman, Figma  
 
-<a href="http://www.github.com/Sandesh-Upadhyay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh-Upadhyay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/Sandesh-Upadhyay"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sandesh-Upadhyay&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 📌 Featured Projects  
 
-<a href="https://github.com/Sandesh-Upadhyay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Upadhyay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+🔗 **AI-Powered Task Manager**  
+[Live](https://ai-powered-task-manager.netlify.app/)  
 
-<b>Top Repositories</b>
+🔗 **URL Shortener**  
+[Live](https://url-shortener-rosy.vercel.app/) | [GitHub](https://github.com/Sandesh-Upadhyay/URL-Shortener)  
 
-<div width="100%" align="center"><a href="https://github.com/Sandesh-Upadhyay/Python Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sandesh-Upadhyay&repo=Python Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh-Upadhyay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh-Upadhyay&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Upadhyay&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh-Upadhyay&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+📧 **Email:** [upadhyaysandesh28@gmail.com](mailto:upadhyaysandesh28@gmail.com)  
+💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/sandesh-upadhyay-671bb8253/)  
+🐦 **Twitter (X):** [@Sandeshup_2024](https://x.com/Sandeshup_2024)  
+🌐 **Portfolio:** [Visit Here](https://sandesh-upadhyay.github.io/)  
+🚀 **GitHub:** [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)  
+
+---
+
+## ☕ Support My Work  
+
+Love my work? Consider buying me a coffee!  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/sandeshupa28)  
+
+---
+
+### **✨ Fun Fact:**  
+_"Code is like humor. When you have to explain it, it’s bad."_ 😆  
+
+🚀 _Let's build something amazing together!_  
+
+---
+
+## 🔥 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandesh-Upadhyay&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
